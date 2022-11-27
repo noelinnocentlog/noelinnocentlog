@@ -1,11 +1,8 @@
 [![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)]()
 <h1 align="center">Hi 👋, I'm Noel Innocent</h1>
 <h3 align="center">A passionate ROS developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noel369&label=Profile%20views&color=0e75b6&style=flat" alt="noel369" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noel369" alt="noel369" /></a> </p>
 
 - 🔭 I’m currently working on **VR controlled robotic arm**
 
@@ -34,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noel369&show_icons=true&locale=en" alt="noel369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noel369&" alt="noel369" /></p>
+
