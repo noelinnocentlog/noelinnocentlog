@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noel369&label=Profile%20views&color=0e75b6&style=flat" alt="noel369" /> </p>
 
-- 🔭 I’m currently working on **VR controlled robotic arm**
+- 🔭 I’m currently working on **OFFICE ASSISTANT ROBOT USING ROS2**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML, IIOT, WEB DEVELOPEMNT**
 
 - 👯 I’m looking to collaborate on **ROS based project**
 
