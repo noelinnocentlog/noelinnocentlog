@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/noel_innocent_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noel_innocent_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/noel innocent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noel innocent" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/noel-innocent-leon369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noel innocent" height="30" width="40" /></a>
 <a href="https://fb.com/noelinnocent (mechatron)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noelinnocent (mechatron)" height="30" width="40" /></a>
 <a href="https://instagram.com/_n_o_e_l_i_n_n_o_c_e_n_t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_n_o_e_l_i_n_n_o_c_e_n_t_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/noel innocent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noel innocent" height="30" width="40" /></a>
