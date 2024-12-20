@@ -72,6 +72,21 @@ Click the badges below to visit my profiles.
   
 ---
 
+<h3 align="left">Support Me:</h3>
+<p align="left">
+  <a href="https://www.paypal.com/paypalme/yourpaypal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://www.patreon.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noel369&show_icons=true&locale=en&theme=radical" alt="noel369" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noel369&theme=radical" alt="noel369" />
