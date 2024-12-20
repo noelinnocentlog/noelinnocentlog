@@ -39,6 +39,11 @@
 ---
 <h3 align="left">Highlighted Projects:</h3>
 
+- **[Roshai Autonomous Vehicle Kit](https://github.com/yourrepo)**  
+  🚘 **Industry Project**: Enhanced vehicle motion planning by integrating the Stanley Algorithm during my internship at Roshai Pvt. Ltd.  
+  🔧 **Features**: Improved localization accuracy and seamless navigation in autonomous vehicles.  
+  🌟 **Outcome**: Gained hands-on experience in ROS programming, mobile robot design, and computer vision.
+
 - **[Autonomous Office Assistant Robot](https://github.com/yourrepo)**  
   🚀 **Recent Project**: Designed and developed a smart assistant robot to tackle office challenges like file transfers and navigation.  
   🌟 **Features**: Autonomous navigation using ROS2, optimized suspension for wheel imbalance, and seamless user interaction.  
@@ -61,8 +66,8 @@
 - **[Water Level Monitoring System](https://github.com/yourrepo)**  
   💧 **IoT for Sustainability**: Developed a real-time monitoring system to prevent water wastage.  
   📡 **Integration**: Used sensors and IoT platforms to enable remote monitoring.  
-  🌱 **Impact**: Promoted efficient water usage in urban households.  
-
+  🌱 **Impact**: Promoted efficient water usage in urban households.
+  
 ---
 
 <p align="center">
