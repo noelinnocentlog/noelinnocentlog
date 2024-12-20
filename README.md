@@ -16,21 +16,15 @@
 
 ---
 
-<h3 align="left">Social Networks to Connect:</h3>
-<p align="left">
-  <a href="https://twitter.com/noel_innocent_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/noel-innocent-leon369/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/_n_o_e_l_i_n_n_o_c_e_n_t_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/noelinnocent" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+### Social Networks to Connect
+Click the badges below to visit my profiles.  
+👉 Right-click and select "Open Link in New Tab" for a seamless experience.
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noel_innocent_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-innocent-leon369/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_n_o_e_l_i_n_n_o_c_e_n_t_)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/noelinnocent)
+
 
 
 ---
