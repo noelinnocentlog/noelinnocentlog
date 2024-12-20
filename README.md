@@ -21,22 +21,22 @@
 
 <h3 align="left">Social Networks to Connect:</h3>
 <p align="left">
-<a href="https://twitter.com/noel_innocent_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noel_innocent_" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/noel-innocent-leon369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noel innocent" height="40" width="40" /></a>
-<a href="https://instagram.com/_n_o_e_l_i_n_n_o_c_e_n_t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_n_o_e_l_i_n_n_o_c_e_n_t_" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/noel innocent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noel innocent" height="40" width="40" /></a>
+  <a href="https://twitter.com/noel_innocent_" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/noel-innocent-leon369/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/_n_o_e_l_i_n_n_o_c_e_n_t_" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/noelinnocent" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
 
 <h3 align="left">Tech Stack:</h3>
-<p align="center">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SolidWorks_Logo.png" alt="SolidWorks" width="50" height="50"/></a>
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="50" height="50"/></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="50" height="50"/></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SolidWorks-00568C?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/Qt-%23ffffff.svg?style=for-the-badge&logo=qt&logoColor=green" alt="Qt" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
 ---
