@@ -70,29 +70,22 @@ Click the badges below to visit my profiles.
   🌱 **Impact**: Promoted efficient water usage in urban households.
   
 ---
-
 <h3 align="left">Support Me:</h3>
 <p align="left">
-  <a href="https://www.paypal.com/paypalme/yourpaypal" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.paypal.me/noelinnocent" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://buymeacoffee.com/noelinnoceq" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
-  <a href="https://ko-fi.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://ko-fi.com/noelinnocent" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ko_fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
-  <a href="https://www.patreon.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.patreon.com/Noelinnocent" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
   </a>
-  <a href="https://github.com/sponsors/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/sponsors/NOEL369" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
-  </a>
-  <a href="https://commerce.coinbase.com/yourcrypto" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Crypto-Donation-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto" />
-  </a>
-  <a href="https://yourwebsite.com/hire" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Hire_Me-%2300A859.svg?style=for-the-badge&logo=workplace&logoColor=white" alt="Hire Me" />
   </a>
 </p>
 
