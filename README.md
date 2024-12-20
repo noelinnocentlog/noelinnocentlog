@@ -1,12 +1,9 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)]()
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHIcbipKT3zOg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723672343398?e=1740009600&v=beta&t=nKu8H2S8p0W5CdEE_7DnpRuX7EIWb4ws4PZq9hPMDqE)]()
 
 <h1 align="center">Hi 👋, I'm Noel Innocent</h1>
 <h3 align="center">A Passionate Robotics Engineer & ROS Developer from India</h3>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=noel369&label=Profile%20views&color=0e75b6&style=flat" alt="noel369" />
 </p>
@@ -40,15 +37,31 @@
 </p>
 
 ---
-
 <h3 align="left">Highlighted Projects:</h3>
 
 - **[Autonomous Office Assistant Robot](https://github.com/yourrepo)**  
-  Solving office challenges with autonomous navigation and department tours.  
+  🚀 **Recent Project**: Designed and developed a smart assistant robot to tackle office challenges like file transfers and navigation.  
+  🌟 **Features**: Autonomous navigation using ROS2, optimized suspension for wheel imbalance, and seamless user interaction.  
+
 - **[VR-Controlled Robotic Manipulator](https://github.com/yourrepo)**  
-  Bridging virtual reality and robotics for precise manipulator control.  
-- **[2D Localization Algorithm](https://github.com/yourrepo)**  
-  Enhancing localization accuracy for autonomous vehicles.  
+  🎮 **Innovative Control**: Leveraged virtual reality to achieve precise control over robotic manipulators.  
+  🛠️ **Technologies**: Integrated VR input devices with ROS middleware for smooth interaction.  
+  📜 **Outcome**: Published in an IEEE journal for its unique implementation.
+
+- **[2D Localization Algorithm for Autonomous Vehicles](https://github.com/yourrepo)**  
+  🧭 **Enhanced Accuracy**: Improved vehicle localization using a modified 2D SLAM algorithm.  
+  🚘 **Applications**: Autonomous vehicles and robot navigation systems.  
+  🔍 **Key Contribution**: Enhanced error calculation for better localization performance.  
+
+- **[Voice-Controlled Assistant Robot](https://github.com/yourrepo)**  
+  🎙️ **Voice-Driven Control**: Created a robot capable of performing tasks via voice commands.  
+  🛠️ **Stack**: Python, ROS1, and Natural Language Processing for voice recognition.  
+  🌟 **Achievement**: Helped improve accessibility in home automation systems.
+
+- **[Water Level Monitoring System](https://github.com/yourrepo)**  
+  💧 **IoT for Sustainability**: Developed a real-time monitoring system to prevent water wastage.  
+  📡 **Integration**: Used sensors and IoT platforms to enable remote monitoring.  
+  🌱 **Impact**: Promoted efficient water usage in urban households.  
 
 ---
 
@@ -57,6 +70,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noel369&theme=radical" alt="noel369" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel369&layout=compact&theme=radical" alt="noel369" />
 </p>
+
 
 ---
 
