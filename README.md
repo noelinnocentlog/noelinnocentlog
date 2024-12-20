@@ -25,7 +25,6 @@ Click the badges below to visit my profiles.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noel_369.me/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Noelinnocent369)
 
-
 ---
 
 <h3 align="left">Tech Stack:</h3>
@@ -78,10 +77,16 @@ Click the badges below to visit my profiles.
     <img src="https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
   <a href="https://www.patreon.com/yourusername" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+  </a>
+  <a href="https://github.com/sponsors/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://commerce.coinbase.com/yourcrypto" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Crypto-Donation-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto" />
   </a>
 </p>
 
@@ -92,7 +97,6 @@ Click the badges below to visit my profiles.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noel369&theme=radical" alt="noel369" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel369&layout=compact&theme=radical" alt="noel369" />
 </p>
-
 
 ---
 
