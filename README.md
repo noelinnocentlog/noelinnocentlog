@@ -91,40 +91,11 @@ Click the badges below to visit my profiles.
 
 ---
 
-<h3 align="center">Support Me:</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.paypal.me/noelinnocent" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://buymeacoffee.com/noelinnoceq" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://ko-fi.com/noelinnocent" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Ko_fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.patreon.com/Noelinnocent" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/sponsors/NOEL369" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/GitHub_Sponsors-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
-      </a>
-    </td>
-    <td align="center" width="33%"></td>
-  </tr>
-</table>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noel369&show_icons=true&locale=en&theme=radical" alt="noel369" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noel369&theme=radical" alt="noel369" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel369&layout=compact&theme=radical" alt="noel369" />
+</p>
 
 ---
 
