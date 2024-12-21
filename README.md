@@ -92,10 +92,11 @@ Click the badges below to visit my profiles.
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noel369&show_icons=true&locale=en&theme=radical" alt="noel369" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noel369&theme=radical" alt="noel369" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel369&layout=compact&theme=radical" alt="noel369" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noel369&show_icons=true&locale=en&theme=radical" alt="noel369" style="margin: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noel369&theme=radical" alt="noel369" style="margin: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel369&layout=compact&theme=radical" alt="noel369" style="margin: 20px;" />
 </p>
+
 
 ---
 
