@@ -2,7 +2,7 @@ name: ⚡ Update Daily Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run every day at midnight UTC
+    - cron: "0 0 * * *" # Run daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Step 1: Checkout the repository code
     - name: ⬇️ Checkout Repo
       uses: actions/checkout@v3
 
-    # Step 2: Setup fallback quotes in case the API fails
+    # Fallback quotes in case API fails
     - name: 📜 Setup Fallback Quotes
       run: |
         cat <<EOF > fallback_quotes.txt
@@ -24,7 +23,7 @@ Your time is limited, so don't waste it living someone else's life. — Steve Jo
 Hardships often prepare ordinary people for an extraordinary destiny. — C.S. Lewis
 EOF
 
-    # Step 3: Fetch motivational quote, or use fallback if API fails
+    # Try fetching quote from API. If it fails, use a fallback
     - name: 🧠 Fetch Motivational Quote
       id: getquote
       run: |
@@ -32,7 +31,6 @@ EOF
 
         mkdir -p .github/data
 
-        # Try fetching quote from API. If it fails, fallback to local quotes
         echo "Trying to fetch quote from API..."
         if curl -s https://api.quotable.io/random > quote.json; then
           content=$(jq -r '.content' quote.json)
@@ -43,7 +41,7 @@ EOF
           quote="📌 $(shuf -n 1 fallback_quotes.txt)"
         fi
 
-        # Cache the quotes in history file
+        # Cache file for past quotes
         touch .github/data/.quotes_history.txt
 
         # Avoid repeating recent quotes
@@ -52,23 +50,13 @@ EOF
           quote="📌 $(shuf -n 1 fallback_quotes.txt)"
         fi
 
-        # Append new quote and keep only the last 30 quotes in history
         echo "$quote" >> .github/data/.quotes_history.txt
-        tail -n 30 .github/data/.quotes_history.txt > temp.txt && mv temp.txt .github/data/.quotes_history.txt
-
-        # Set the final quote as environment variable for later use
         echo "QUOTE=$quote" >> $GITHUB_ENV
 
-    # Step 4: Update the README with the new quote
     - name: 📝 Update README with New Quote
       run: |
-        # URL-encode the quote for tweet link
-        tweet_url="https://twitter.com/intent/tweet?text=$(echo "$QUOTE" | jq -sRr @uri)"
+        new_quote="### 🔥 Random Motivation Quote\n> \"$QUOTE\"\n\n---"
 
-        # Format the quote section with tweetable link
-        new_quote="### 🔥 Random Motivation Quote\n> \"$QUOTE\"\n\n[🕊️ Tweet this quote]($tweet_url)\n\n---"
-
-        # Use awk to update the README file only for the quote section
         awk -v r="$new_quote" '
           BEGIN {found=0}
           /### 🔥 Random Motivation Quote/ {found=1; print r; next}
@@ -76,7 +64,6 @@ EOF
           !found {print}
         ' README.md > temp.md && mv temp.md README.md
 
-    # Step 5: Commit and push the updated README to the repository
     - name: 🚀 Commit and Push Changes
       run: |
         git config user.name "github-actions"
