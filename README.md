@@ -1,8 +1,6 @@
 [![](https://github.com/noelinnocentlog/noelinnocentlog/blob/main/Profile.gif)](https://linktr.ee/noelinnocentlog/)<!-- If you want the template for my gif, email me! -->
 
-<h1 align="center">Hi 👋, I'm Noel Innocent</h1>
-<h3 align="center">A Passionate Robotics Engineer & ROS Developer from India</h3>
-
+<h1 align="center">A Passionate Mechatronics Engineer & ROS Developer</h1>
 ---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=noel369&label=Profile%20views&color=0e75b6&style=flat" alt="noel369" />
