@@ -10,27 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # Step 1: Checkout the repository code
     - name: ⬇️ Checkout Repo
       uses: actions/checkout@v3
 
-    # Fallback quotes in case API fails
+    # Step 2: Setup fallback quotes in case the API fails
     - name: 📜 Setup Fallback Quotes
       run: |
-        cat <<EOF > fallback_quotes.txt
-Believe in yourself and all that you are. — Christian D. Larson
-Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill
-Your time is limited, so don't waste it living someone else's life. — Steve Jobs
-Hardships often prepare ordinary people for an extraordinary destiny. — C.S. Lewis
-EOF
+        echo "Believe in yourself and all that you are. — Christian D. Larson" > fallback_quotes.txt
+        echo "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill" >> fallback_quotes.txt
+        echo "Your time is limited, so don't waste it living someone else's life. — Steve Jobs" >> fallback_quotes.txt
+        echo "Hardships often prepare ordinary people for an extraordinary destiny. — C.S. Lewis" >> fallback_quotes.txt
 
-    # Try fetching quote from API. If it fails, use a fallback
+    # Step 3: Fetch motivational quote, or use fallback if API fails
     - name: 🧠 Fetch Motivational Quote
       id: getquote
       run: |
         set -e
-
         mkdir -p .github/data
-
         echo "Trying to fetch quote from API..."
         if curl -s https://api.quotable.io/random > quote.json; then
           content=$(jq -r '.content' quote.json)
@@ -40,23 +37,21 @@ EOF
           echo "API failed. Picking random fallback quote..."
           quote="📌 $(shuf -n 1 fallback_quotes.txt)"
         fi
-
         # Cache file for past quotes
         touch .github/data/.quotes_history.txt
-
         # Avoid repeating recent quotes
         if grep -Fxq "$quote" .github/data/.quotes_history.txt; then
           echo "Quote already used. Selecting another..."
           quote="📌 $(shuf -n 1 fallback_quotes.txt)"
         fi
-
+        # Append the new quote to the history
         echo "$quote" >> .github/data/.quotes_history.txt
         echo "QUOTE=$quote" >> $GITHUB_ENV
 
+    # Step 4: Update README with the new quote
     - name: 📝 Update README with New Quote
       run: |
         new_quote="### 🔥 Random Motivation Quote\n> \"$QUOTE\"\n\n---"
-
         awk -v r="$new_quote" '
           BEGIN {found=0}
           /### 🔥 Random Motivation Quote/ {found=1; print r; next}
@@ -64,6 +59,7 @@ EOF
           !found {print}
         ' README.md > temp.md && mv temp.md README.md
 
+    # Step 5: Commit and Push the changes to GitHub
     - name: 🚀 Commit and Push Changes
       run: |
         git config user.name "github-actions"
