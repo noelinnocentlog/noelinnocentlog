@@ -1,17 +1,16 @@
 [![](https://github.com/noelinnocentlog/noelinnocentlog/blob/main/Profile.gif)](https://linktr.ee/noelinnocentlog/)<!-- If you want the template for my gif, email me! -->
-
 <h1 align="center">A Passionate Mechatronics Engineer & ROS Developer</h1>
----
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=noel369&label=Profile%20views&color=0e75b6&style=flat" alt="noel369" />
+  <img src="https://komarev.com/ghpvc/?username=noelinnocentlog&label=Profile%20views&color=0e75b6&style=flat" alt="noelinnocentlog" />
 </p>
 
+---
+### About
 - 🔭 I’m currently working on **Autonomous Office Assistant Robot using ROS2**
 - 🌱 I’m currently mastering **Machine Vision, Motion Planning, and Robotics Middleware**
 - 👯 I’m looking to collaborate on **ROS-based and Autonomous Systems Projects**
 - 💬 Ask me about **ROS, VR, Python, and Motion Planning Algorithms**
-- 📫 How to reach me: **noelinnocent369@gmail.com**
-
+- 📫 How to reach me: [![Linktree](https://img.shields.io/badge/Linktree-black?logo=linktree)](https://linktr.ee/noelinnocentlog)
 ---
 
 ### Social Networks to Connect
