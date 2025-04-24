@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHIcbipKT3zOg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723672343398?e=1740009600&v=beta&t=nKu8H2S8p0W5CdEE_7DnpRuX7EIWb4ws4PZq9hPMDqE)]()
+[![](https://github.com/noelinnocentlog/noelinnocentlog/blob/main/Profile.gif)](https://linktr.ee/noelinnocentlog/)<!-- If you want the template for my gif, email me! -->
 
 <h1 align="center">Hi 👋, I'm Noel Innocent</h1>
 <h3 align="center">A Passionate Robotics Engineer & ROS Developer from India</h3>
