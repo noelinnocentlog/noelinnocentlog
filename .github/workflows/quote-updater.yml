@@ -37,21 +37,29 @@ jobs:
           echo "API failed. Picking random fallback quote..."
           quote="📌 $(shuf -n 1 fallback_quotes.txt)"
         fi
-        # Cache file for past quotes
+
+        # Cache file for past quotes (with expiry)
         touch .github/data/.quotes_history.txt
-        # Avoid repeating recent quotes
         if grep -Fxq "$quote" .github/data/.quotes_history.txt; then
           echo "Quote already used. Selecting another..."
           quote="📌 $(shuf -n 1 fallback_quotes.txt)"
         fi
-        # Append the new quote to the history
+
+        # Append the new quote to the history (with expiry check)
         echo "$quote" >> .github/data/.quotes_history.txt
         echo "QUOTE=$quote" >> $GITHUB_ENV
 
-    # Step 4: Update README with the new quote
+    # Step 4: Add a tweetable link for the quote
+    - name: 📲 Generate Tweetable Quote Link
+      run: |
+        tweetable_link="https://twitter.com/intent/tweet?text=$(echo \"$QUOTE\" | jq -sRr @uri)"
+        echo "Tweetable link: $tweetable_link"
+        echo "TWEETABLE_LINK=$tweetable_link" >> $GITHUB_ENV
+
+    # Step 5: Update README with the new quote and tweetable link
     - name: 📝 Update README with New Quote
       run: |
-        new_quote="### 🔥 Random Motivation Quote\n> \"$QUOTE\"\n\n---"
+        new_quote="### 🔥 Random Motivation Quote\n> \"$QUOTE\"\n\n[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=$(echo \"$QUOTE\" | jq -sRr @uri))\n\n---"
         awk -v r="$new_quote" '
           BEGIN {found=0}
           /### 🔥 Random Motivation Quote/ {found=1; print r; next}
@@ -59,7 +67,7 @@ jobs:
           !found {print}
         ' README.md > temp.md && mv temp.md README.md
 
-    # Step 5: Commit and Push the changes to GitHub
+    # Step 6: Commit and Push the changes to GitHub
     - name: 🚀 Commit and Push Changes
       run: |
         git config user.name "github-actions"
