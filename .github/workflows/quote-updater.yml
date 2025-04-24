@@ -1,0 +1,32 @@
+name: ⚡ Update Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+
+    - name: Get New Quote
+      id: quote
+      run: |
+        quote=$(curl -s https://api.quotable.io/random | jq -r '.content + " — " + .author')
+        echo "QUOTE=$quote" >> $GITHUB_ENV
+
+    - name: Update README
+      run: |
+        sed -i '/### 🔥 Random Motivation Quote/,/---/c\
+### 🔥 Random Motivation Quote\n> "'"$QUOTE"'"\n\n---' README.md
+
+    - name: Commit and Push
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git commit -am "✨ Daily motivation quote update"
+        git push
