@@ -10,7 +10,7 @@
 - 🌱 I’m currently mastering **Machine Vision, Motion Planning, and Robotics Middleware**
 - 👯 I’m looking to collaborate on **ROS-based and Autonomous Systems Projects**
 - 💬 Ask me about **ROS, VR, Python, and Motion Planning Algorithms**
-- 📫 How to reach me: [![Linktree](https://img.shields.io/badge/Linktree-black?logo=linktree)](https://linktr.ee/noelinnocentlog)
+- 📫 How to reach me: [![Linktree](https://img.shields.io/badge/Linktree-00C100?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/noelinnocentlog/)
 ---
 
 ### Social Networks to Connect
