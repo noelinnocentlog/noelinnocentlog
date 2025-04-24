@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 Random Motivation Quote
-> ""
+> "📌 Believe in yourself and all that you are. — Christian D. Larson"
 
 ---
 
