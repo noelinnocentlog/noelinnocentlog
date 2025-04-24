@@ -21,12 +21,18 @@ jobs:
 
     - name: Update README
       run: |
-        sed -i '/### 🔥 Random Motivation Quote/,/---/c\
-### 🔥 Random Motivation Quote\n> "'"$QUOTE"'"\n\n---' README.md
+        new_quote="### 🔥 Random Motivation Quote\n> \"$QUOTE\"\n\n---"
+        awk -v r="$new_quote" '
+          BEGIN {found=0}
+          /### 🔥 Random Motivation Quote/ {found=1; print r; next}
+          /---/ && found {found=0; next}
+          !found {print}
+        ' README.md > temp.md && mv temp.md README.md
 
     - name: Commit and Push
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git commit -am "✨ Daily motivation quote update"
+        git add README.md
+        git commit -m "✨ Daily motivation quote update"
         git push
