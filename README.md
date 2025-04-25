@@ -57,11 +57,10 @@
 <details>
 <summary><strong>📊 STATS</strong></summary>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noelinnocentlog&show_icons=true&locale=en&theme=dark" alt="noelinnocentlog" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelinnocentlog&theme=dark&border_radius=5" alt="noelinnocentlog" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelinnocentlog&layout=compact&theme=dark" alt="noelinnocentlog" />
-</p>
+
 
 </details>
 
