@@ -1,5 +1,5 @@
 [![](https://github.com/noelinnocentlog/noelinnocentlog/blob/main/Resource/Profile.gif)](https://linktr.ee/noelinnocentlog/)<!-- If you want the template for my gif, email me! -->
-<h1 align="center">ROS Developer</h1>
+<h1 align="center">ROS Developer|Researcher|Aspiring to Shape Autonomous Systems|</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=noelinnocentlog&label=Profile%20views&color=0e75b6&style=flat" alt="noelinnocentlog" />
 </p>
