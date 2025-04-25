@@ -27,12 +27,14 @@
 
 <details>
 <summary><strong>❤️ SUPPORT ME</strong></summary>
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noelinnoceq)  
-[![Ko-fi](https://img.shields.io/badge/Ko_fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/noelinnocent)  
-[![Patreon](https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Noelinnocent)  
-[![PayPal](https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/noelinnocent)  
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/NOEL369)
+  
+<p align="center">
+  <a href="https://buymeacoffee.com/noelinnoceq"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
+  <a href="https://ko-fi.com/noelinnocent"><img src="https://img.shields.io/badge/Ko_fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+  <a href="https://www.patreon.com/Noelinnocent"><img src="https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
+  <a href="https://www.paypal.me/noelinnocent"><img src="https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+  <a href="https://github.com/sponsors/NOEL369"><img src="https://img.shields.io/badge/GitHub_Sponsors-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
+</p>
 
 </details>
 
