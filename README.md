@@ -7,9 +7,9 @@
 ---
 
 ### 🔥 Random Motivation Quote
-> "📌 Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill"
+> "📌 Hardships often prepare ordinary people for an extraordinary destiny. — C.S. Lewis"
 
-[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Success%20is%20not%20final%2C%20failure%20is%20not%20fatal%3A%20It%20is%20the%20courage%20to%20continue%20that%20counts.%20%E2%80%94%20Winston%20Churchill%22%0A)
+[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Hardships%20often%20prepare%20ordinary%20people%20for%20an%20extraordinary%20destiny.%20%E2%80%94%20C.S.%20Lewis%22%0A)
 
 ---
 
