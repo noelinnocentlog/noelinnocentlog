@@ -7,9 +7,9 @@
 ---
 
 ### 🔥 Random Motivation Quote
-> "📌 Believe in yourself and all that you are. — Christian D. Larson"
+> "📌 Your time is limited, so don't waste it living someone else's life. — Steve Jobs"
 
-[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Believe%20in%20yourself%20and%20all%20that%20you%20are.%20%E2%80%94%20Christian%20D.%20Larson%22%0A)
+[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Your%20time%20is%20limited%2C%20so%20don%27t%20waste%20it%20living%20someone%20else%27s%20life.%20%E2%80%94%20Steve%20Jobs%22%0A)
 
 ---
 
