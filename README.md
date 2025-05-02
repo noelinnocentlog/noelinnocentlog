@@ -7,9 +7,9 @@
 ---
 
 ### 🔥 Random Motivation Quote
-> "📌 Your time is limited, so don't waste it living someone else's life. — Steve Jobs"
+> "📌 Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill"
 
-[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Your%20time%20is%20limited%2C%20so%20don%27t%20waste%20it%20living%20someone%20else%27s%20life.%20%E2%80%94%20Steve%20Jobs%22%0A)
+[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Success%20is%20not%20final%2C%20failure%20is%20not%20fatal%3A%20It%20is%20the%20courage%20to%20continue%20that%20counts.%20%E2%80%94%20Winston%20Churchill%22%0A)
 
 ---
 
