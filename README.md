@@ -7,9 +7,9 @@
 ---
 
 ### 🔥 Random Motivation Quote
-> "📌 Hardships often prepare ordinary people for an extraordinary destiny. — C.S. Lewis"
+> "📌 Believe in yourself and all that you are. — Christian D. Larson"
 
-[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Hardships%20often%20prepare%20ordinary%20people%20for%20an%20extraordinary%20destiny.%20%E2%80%94%20C.S.%20Lewis%22%0A)
+[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Believe%20in%20yourself%20and%20all%20that%20you%20are.%20%E2%80%94%20Christian%20D.%20Larson%22%0A)
 
 ---
 
