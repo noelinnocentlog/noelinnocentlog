@@ -1,17 +1,22 @@
 [![](https://github.com/noelinnocentlog/noelinnocentlog/blob/main/Resource/Profile.gif)](https://linktr.ee/noelinnocentlog/)<!-- If you want the template for my gif, email me! -->
-<h1 align="center">ROS Developer|Researcher</h1>
+<h1 align="center">Robotics Developer | Researcher</h1>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=noelinnocentlog&label=Profile%20views&color=0e75b6&style=flat" alt="noelinnocentlog" />
-  <img src="https://img.shields.io/github/followers/noelinnocentlog?label=Followers&style=flat&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/noelinnocentlog?affiliations=OWNER&style=flat&color=0e75b6" alt="stars" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat" alt="Open to Collaborate" />
-  <a href="https://orcid.org/YOUR-ORCID-ID"><img src="https://img.shields.io/badge/ORCID-Publications:%20X-green?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <img src="https://komarev.com/ghpvc/?username=noelinnocentlog&label=Profile%20views&color=0B1D51&style=flat" alt="noelinnocentlog" />
+  <img src="https://img.shields.io/github/followers/noelinnocentlog?label=Followers&style=flat&color=0B1D51" alt="followers" />
+  <img src="https://img.shields.io/github/stars/noelinnocentlog?affiliations=OWNER&style=flat&color=0B1D51" alt="stars" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-D4AF37?style=flat" alt="Open to Collaborate" />
+  <a href="https://orcid.org/YOUR-ORCID-ID"><img src="https://img.shields.io/badge/ORCID-Publications:%208-D4AF37?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
 ### 🔥 Quote Of The Day
 > "📌 Hardships often prepare ordinary people for an extraordinary destiny. — C.S. Lewis"
 
-[![Tweet Quote](https://img.shields.io/badge/Share%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Hardships%20often%20prepare%20ordinary%20people%20for%20an%20extraordinary%20destiny.%20%E2%80%94%20C.S.%20Lewis%22%0A)
+<p align="left">
+  <a href="https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Hardships%20often%20prepare%20ordinary%20people%20for%20an%20extraordinary%20destiny.%20%E2%80%94%20C.S.%20Lewis%22%0A">
+    <img src="https://img.shields.io/badge/Share%20on-X-0B1D51?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+  </a>
+</p>
+
 ---
 
 <details>
@@ -30,11 +35,11 @@
 <summary><strong>❤️ SUPPORT ME</strong></summary>
   
 <p align="center">
-  <a href="https://buymeacoffee.com/noelinnoceq"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
-  <a href="https://ko-fi.com/noelinnocent"><img src="https://img.shields.io/badge/Ko_fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
-  <a href="https://www.patreon.com/Noelinnocent"><img src="https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
-  <a href="https://www.paypal.me/noelinnocent"><img src="https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
-  <a href="https://github.com/sponsors/NOEL369"><img src="https://img.shields.io/badge/GitHub_Sponsors-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
+  <a href="https://buymeacoffee.com/noelinnoceq"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-0B1D51?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
+  <a href="https://ko-fi.com/noelinnocent"><img src="https://img.shields.io/badge/Ko_fi-D4AF37?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+  <a href="https://www.patreon.com/Noelinnocent"><img src="https://img.shields.io/badge/Patreon-0B1D51?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
+  <a href="https://www.paypal.me/noelinnocent"><img src="https://img.shields.io/badge/PayPal-D4AF37?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPal"></a>
+  <a href="https://github.com/sponsors/NOEL369"><img src="https://img.shields.io/badge/GitHub_Sponsors-0B1D51?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
 </p>
 
 </details>
@@ -44,12 +49,14 @@
 <details>
 <summary><strong>🛠️ TECHNOLOGIES</strong></summary>
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/SolidWorks-00568C?style=for-the-badge&logo=solidworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-0B1D51?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-D4AF37?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/ROS2-0B1D51?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-D4AF37?style=for-the-badge&logo=solidworks&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unity-0B1D51?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-D4AF37?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+</p>
 
 </details>
 
@@ -58,28 +65,29 @@
 <details>
 <summary><strong>📊 STATS</strong></summary>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=noelinnocentlog&show_icons=true&locale=en&theme=dark" alt="noelinnocentlog" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelinnocentlog&theme=dark&border_radius=5" alt="noelinnocentlog" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelinnocentlog&layout=compact&theme=dark" alt="noelinnocentlog" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noelinnocentlog&show_icons=true&locale=en&title_color=0B1D51&text_color=333333&icon_color=D4AF37&bg_color=F5F5F5&border_color=0B1D51" alt="noelinnocentlog" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelinnocentlog&background=F5F5F5&border=0B1D51&ring=D4AF37&fire=D4AF37&currStreakNum=0B1D51&sideNums=0B1D51&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=333333" alt="noelinnocentlog" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelinnocentlog&layout=compact&title_color=0B1D51&text_color=333333&bg_color=F5F5F5&border_color=0B1D51" alt="noelinnocentlog" />
+</p>
 
 </details>
 
 ---
 
 <details>
-<summary><strong>📁 REPOSITORIES</strong></summary>
+<summary><strong>📁 FEATURED PROJECTS</strong></summary>
 
-- 🚘 [**Roshai Autonomous Vehicle Kit**](https://github.com/yourrepo)  
-- 🤖 [**Autonomous Office Assistant Robot**](https://github.com/yourrepo)  
-- 🎮 [**VR-Controlled Robotic Manipulator**](https://github.com/yourrepo)  
-- 📍 [**2D Localization for Autonomous Vehicles**](https://github.com/yourrepo)  
-- 🎙️ [**Voice-Controlled Assistant Robot**](https://github.com/yourrepo)
+- 🚘 [**Roshai Autonomous Vehicle Kit**](https://github.com/noelinnocentlog/roshai-vehicle-kit)  
+- 🤖 [**Autonomous Office Assistant Robot**](https://github.com/noelinnocentlog/office-assistant-bot)  
+- 🎮 [**VR-Controlled Robotic Manipulator**](https://github.com/noelinnocentlog/vr-robotic-manipulator)  
+- 📍 [**2D Localization for Autonomous Vehicles**](https://github.com/noelinnocentlog/2d-localization)  
+- 🎙️ [**Voice-Controlled Assistant Robot**](https://github.com/noelinnocentlog/voice-assistant-robot)
 
 </details>
 
 ---
 
 <p align="center"><strong>🚧 THE README PAGE IS UNDER DEVELOPMENT 🚧</strong></p>
-
-
