@@ -1,5 +1,12 @@
 [![](https://github.com/noelinnocentlog/noelinnocentlog/blob/main/Resource/Profile.gif)](https://linktr.ee/noelinnocentlog/)<!-- If you want the template for my gif, email me! -->
-<h1 align="center">Robotics Developer | Researcher</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%A4%96+Robotics+Developer;%F0%9F%94%AC+Researcher;%F0%9F%9A%80+Innovation+Explorer;%F0%9F%A4%96+ROS+%26+Autonomous+Systems&color=D4AF37" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=noelinnocentlog&label=Profile%20views&color=0B1D51&style=flat" alt="noelinnocentlog" />
   <img src="https://img.shields.io/github/followers/noelinnocentlog?label=Followers&style=flat&color=0B1D51" alt="followers" />
