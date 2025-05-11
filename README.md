@@ -2,15 +2,16 @@
 <h1 align="center">ROS Developer|Researcher</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=noelinnocentlog&label=Profile%20views&color=0e75b6&style=flat" alt="noelinnocentlog" />
+  <img src="https://img.shields.io/github/followers/noelinnocentlog?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/noelinnocentlog?affiliations=OWNER&style=flat&color=0e75b6" alt="stars" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat" alt="Open to Collaborate" />
+  <a href="https://orcid.org/YOUR-ORCID-ID"><img src="https://img.shields.io/badge/ORCID-Publications:%20X-green?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
----
-
-### 🔥 Random Motivation Quote
+### 🔥 Quote Of The Day
 > "📌 Hardships often prepare ordinary people for an extraordinary destiny. — C.S. Lewis"
 
-[📲 Tweet this quote!](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Hardships%20often%20prepare%20ordinary%20people%20for%20an%20extraordinary%20destiny.%20%E2%80%94%20C.S.%20Lewis%22%0A)
-
+[![Tweet Quote](https://img.shields.io/badge/Share%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=%22%F0%9F%93%8C%20Hardships%20often%20prepare%20ordinary%20people%20for%20an%20extraordinary%20destiny.%20%E2%80%94%20C.S.%20Lewis%22%0A)
 ---
 
 <details>
