@@ -28,11 +28,38 @@
 
 <details>
 <summary><strong>📌 ABOUT</strong></summary>
+👋 Hey there!
+---
+🎯 **Currently Working On**
+- 🤖 **RHLC** indoor navigation for hospital logistics delivery
+- 📦 **CHIPP** An AI-powered content recommendation bot using n8n + OpenAI
+  
+🧠 **What I'm Learning**
+- 🧩 Robotics Middleware (ROS2 Jazzy)
+- 🛠️ Motion Planning: TEB, SMAC PLANNER
 
-- 🔭 Working on: **Autonomous Office Assistant Robot (ROS2)**
-- 🌱 Learning: **Robotics Middleware, Motion Planning, Machine Vision**
-- 💬 Ask me about: **ROS, VR, Python, Motion Planning Algorithms**
-- 📫 Connect: [Linktree](https://linktr.ee/noelinnocentlog/)
+💡 **My Interests**
+- Human–Robot Interaction (HRI)
+- Open Source Robotics Tooling
+
+📍 **Quick Facts**
+- 🎓 Apprentice @ CSIR–CSIO: Research in autonomous robotics
+- 📄 Writing an IEEE paper on YOLO + Obstacle Avoidance
+- 🧠 Building *Chipp*, my sidekick AI bot
+- 🎶 Spotify and music drive my workflow
+- 🌱 Always learning, always iterating
+
+💬 **Ask Me About**
+- ROS Navigation Stack (ROS1/ROS2)
+- Motion Planning Algorithms
+- 
+---
+
+📫 **Let’s Connect**
+- 🌐 [Linktree](https://linktr.ee/noelinnocentlog/)
+
+🧭 **Personal Motto**  
+> _"I believe in systems that learn, adapt, and make lives better."_
 
 </details>
 
