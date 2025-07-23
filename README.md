@@ -1,7 +1,7 @@
 [![](https://github.com/noelinnocentlog/noelinnocentlog/blob/main/Resource/Profile.gif)](https://linktr.ee/noelinnocentlog/)<!-- If you want the template for my gif, email me! -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%A4%96+Robotics+Developer;%F0%9F%94%AC+Researcher;%F0%9F%9A%80+Innovation+Explorer;%F0%9F%A4%96+ROS+%26+AI/ML+VR/AR&color=D4AF37" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%A4%96+Robotics+Developer;%F0%9F%94%AC+Researcher;%F0%9F%9A%80+Innovation+Explorer;%F0%9F%A4%96+ROS+AI/ML+VR/AR&color=D4AF37" alt="Typing SVG" />
   </a>
 </p>
 
