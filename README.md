@@ -28,8 +28,9 @@
 
 <details>
 <summary><strong>📌 ABOUT</strong></summary>
+  
 👋 Hey there!
----
+  
 🎯 **Currently Working On**
 - 🤖 **RHLC** indoor navigation for hospital logistics delivery
 - 📦 **CHIPP** An AI-powered content recommendation bot using n8n + OpenAI
@@ -52,8 +53,6 @@
 💬 **Ask Me About**
 - ROS Navigation Stack (ROS1/ROS2)
 - Motion Planning Algorithms
-- 
----
 
 📫 **Let’s Connect**
 - 🌐 [Linktree](https://linktr.ee/noelinnocentlog/)
