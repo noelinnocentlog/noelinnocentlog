@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/noelinnocentlog?label=Followers&style=flat&color=0B1D51" alt="followers" />
   <img src="https://img.shields.io/github/stars/noelinnocentlog?affiliations=OWNER&style=flat&color=0B1D51" alt="stars" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-D4AF37?style=flat" alt="Open to Collaborate" />
-  <a href="https://orcid.org/0009-0003-3321-9471"><img src="https://img.shields.io/badge/ORCID-Publications:%208-D4AF37?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://orcid.org/0009-0003-3321-9471"> <img src="https://img.shields.io/badge/ORCID-View_Profile-D4AF37?style=flat&logo=orcid&logoColor=white" alt="ORCID" /> </a>
 </p>
 
 ### 🔥 Quote Of The Day
